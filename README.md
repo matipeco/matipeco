@@ -29,7 +29,7 @@ Soy desarrollador web Full Stack y un amante de la tecnología en todas sus rama
 
  <code><img width="30%" src=https://i.postimg.cc/nLycxGLK/Screenshot-2023-04-13-at-17-00-15-React-App.png></code>
  <code><img width="30%" src=https://i.postimg.cc/Gp8h65bh/Screenshot-2023-04-13-at-17-00-29-React-App.png></code>
- <code><img width="30%" src=https://i.postimg.cc/L694mXmW/Screenshot-2023-04-13-at-17-14-12-React-App.png></code>
+ <code><img width="30%" src="https://i.imgur.com/Is69qJD.png"></code>
  <code><img width="30%" src=https://i.postimg.cc/vTdBrtF8/Screenshot-2023-04-13-at-17-01-37-React-App.png></code>
  <code><img width="30%" src=https://i.postimg.cc/hPsjmmCg/Screenshot-2023-04-13-at-17-02-17-React-App.png></code>
  <code><img width="30%" src=https://i.postimg.cc/W3drWnHM/Screenshot-2023-04-13-at-17-10-16-React-App.png></code>
