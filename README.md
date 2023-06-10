@@ -13,9 +13,9 @@ Soy desarrollador web Full Stack y un amante de la tecnología en todas sus rama
 
 
 
-[Appdoptame - Proyecto Final(Henry)](https://github.com/matipeco/deployAppdoptame)
+[Appdoptame - Proyecto Final (Henry)](https://github.com/matipeco/deployAppdoptame)
 
-[PokemonApp - Proyecto Individual(Henry)](https://github.com/matipeco/PI-final-Pokemon)
+[PokemonApp - Proyecto Individual (Henry)](https://github.com/matipeco/PI-final-Pokemon)
 
 <br/>
 
