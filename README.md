@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador web Full Stack y un amante de la tecnología en todas sus ramas. Mi intencion como programador es brindar soluciones efectivas, prestando atencion al detalle exaustivo y aplicando buenas prácticas.<br><br>Como desarrollador de software, tengo experiencia en lenguajes como Javascript y Typescript. También he adquirido habilidades para dominar tecnologías como React, Redux, Node.js, Express, PostgreSQL, MongoDB, entre otras. Trabajo tanto del lado del front-end como del back-end. Me motiva aprender nuevas tecnologías y estar al tanto de las últimas tendencias en el desarrollo web.
+Soy desarrollador web Full Stack y un amante de la tecnología en todas sus ramas. Mi intencion como programador es brindar soluciones efectivas, prestando atencion al detalle exaustivo y aplicando buenas prácticas.<br><br>Como desarrollador de software, tengo experiencia en lenguajes como Javascript y Typescript. También he adquirido habilidades para dominar tecnologías como React, Redux, Node.js, Next.js, Express, PostgreSQL, MongoDB, entre otras. Trabajo tanto del lado del backend como del frontend, aunque tenga más experiencia y disfrute un poco más el lado del cliente. Me motiva aprender nuevas tecnologías y estar al tanto de las últimas tendencias en el desarrollo web.
 
 
 ## 🌐 Socials:
