@@ -10,6 +10,7 @@ Soy desarrollador web Full Stack y un amante de la tecnología en todas sus rama
 
 
 ## 📚 Projects:
+[Mercado Libre - Challenge](https://github.com/matipeco/meli-challenge)
 
 [Aerolab - Challenge](https://aerolab-challenge-ts.vercel.app/)
 
